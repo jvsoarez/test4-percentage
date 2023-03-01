@@ -11,7 +11,7 @@ Faça o clone deste repositório:
     
 Entre no diretório
     
-    test4-percentage
+    cd test4-percentage
     
 
 🙏🏽 Obrigado por ver este repositório!
